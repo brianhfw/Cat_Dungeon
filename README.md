@@ -3,6 +3,7 @@
 All resources is for friend's use only
 
 ## Compatibility 
+Windows
 
 ## How to use
 1. Install python3
