@@ -2,9 +2,9 @@
 
 All resources is for friend's use only
 
-##Compatibility 
+## Compatibility 
 
-##How to use
+## How to use
 1. Install python3
 2. Install pip
 3. Install and run miniconda3
